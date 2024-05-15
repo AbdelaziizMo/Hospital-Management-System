@@ -1,0 +1,5 @@
+90;Midut;90;80;1000;Good For Heart
+9310;paracit;322;200;100;Good For Hairs
+1112;AAA;200;250;100;Good For Heart
+810;BBN;300;400;100;----------
+55;aaa;555;600;100;-------------------
